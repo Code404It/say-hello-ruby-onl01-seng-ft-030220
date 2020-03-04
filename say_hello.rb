@@ -2,3 +2,4 @@
 def greeting(name=Hey Bro)
   puts "Hello #{name}, welcome to Wal Mart"
 end
+greeting {"Jessikah"}
