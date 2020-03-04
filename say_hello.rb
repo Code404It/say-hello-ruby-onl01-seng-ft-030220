@@ -1,4 +1,4 @@
 # Build your say_hello method here
 def greeting(name=Hey Bro)
-  puts "Hello #{name}."
+  puts "Hello #{name}, welcome to Wal Mart"
 end
